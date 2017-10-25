@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Node Auth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongoose": "*",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0"
+  }
+}
